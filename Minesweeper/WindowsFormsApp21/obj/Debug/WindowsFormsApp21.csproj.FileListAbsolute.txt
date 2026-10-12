@@ -1,0 +1,19 @@
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.AssemblyReference.cache
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\hayru\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.AssemblyReference.cache
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe.config
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\hayru\OneDrive\Masaüstü\240710065_Hayrunnisa ŞAHİN_MayinTarlasi\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
